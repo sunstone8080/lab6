@@ -1,0 +1,7 @@
+C:\Users\mlmda\Documents\GitHub\lab6\lab6_net\lab6_net\bin\Debug\lab6_net.exe.config
+C:\Users\mlmda\Documents\GitHub\lab6\lab6_net\lab6_net\bin\Debug\lab6_net.exe
+C:\Users\mlmda\Documents\GitHub\lab6\lab6_net\lab6_net\bin\Debug\lab6_net.pdb
+C:\Users\mlmda\Documents\GitHub\lab6\lab6_net\lab6_net\obj\Debug\lab6_net.csproj.AssemblyReference.cache
+C:\Users\mlmda\Documents\GitHub\lab6\lab6_net\lab6_net\obj\Debug\lab6_net.csproj.CoreCompileInputs.cache
+C:\Users\mlmda\Documents\GitHub\lab6\lab6_net\lab6_net\obj\Debug\lab6_net.exe
+C:\Users\mlmda\Documents\GitHub\lab6\lab6_net\lab6_net\obj\Debug\lab6_net.pdb
